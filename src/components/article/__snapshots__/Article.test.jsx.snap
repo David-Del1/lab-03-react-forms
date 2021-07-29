@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article component renders articles 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      bitcoin
+    </h1>
+    <p>
+      David Delgadillo
+    </p>
+    <p>
+       nice
+    </p>
+  </div>
+</DocumentFragment>
+`;

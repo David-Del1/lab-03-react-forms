@@ -4,7 +4,7 @@ exports[`App component renders App 1`] = `
 <DocumentFragment>
   <form
     data-testid="search-form"
-    >
+  >
     <label
       for="search-input"
     >
@@ -19,7 +19,7 @@ exports[`App component renders App 1`] = `
     <button>
       Search
     </button>
-    </form>
-    <ul />
+  </form>
+  <ul />
 </DocumentFragment>
 `;
